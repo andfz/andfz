@@ -3,7 +3,11 @@
     <h1 align="center">Hello I'm <a targer="_blank" href="https://github.com/andfz">Andrea</a>, 42Mulh Student</h1>
 </p>
 
+<p align="center">
+    <h2 align="center"> I am a newbie in this Big Tech World</h2>
+</p>
 
+![I am a newbie in this Big Tech World](./andfz_banner.png)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andfz&amp;show_icons=true&title_color=000000&text_color=000000&&icon_color=000000" width="49%">
