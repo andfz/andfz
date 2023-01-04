@@ -20,6 +20,6 @@
   <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">
 </p>
 
-* 👨‍💻 I’m currently working on these Skills : C / Bash / Algorithm 
+* 👨‍💻 I’m currently working on these Skills : C / Shell / Algorithm / set up my own operating system while implementing strict rules / [...]
 * 📖 Next I would like to learn React or Vue
 * 🔭 Next to the next humbly become a (good) developer never stop learning
