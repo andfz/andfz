@@ -9,10 +9,7 @@
 
 ![I am a newbie in this Big Tech World](./andfz_banner.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andfz&show_icons=true&count_private=true&title_color=000000&text_color=000000&&icon_color=000000" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andfz&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff&layout=compact" width="41%">
-</p>
+![Les Stats GitHub de andfz](https://github-readme-stats.vercel.app/api?username=andfz&show_icons=true&theme=merko&count_private=true)
 
 <p align="center">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
