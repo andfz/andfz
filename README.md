@@ -1,6 +1,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/andfz)
 <p align="center">
-    <h1 align="center">Hello I'm <a targer="_blank" href="https://github.com/andfz">Andrea</a>, 42Mulh Student</h1>
+    <h1 align="center">Hello I'm <a targer="_blank" href="https://github.com/andfz" style="color : black">Andrea</a>, 42 Student</h1>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ![I am a newbie in this Big Tech World](./andfz_banner.png)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andfz&amp;show_icons=true&count_private=true&title_color=000000&text_color=000000&&icon_color=000000" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=andfz&show_icons=true&count_private=true&title_color=000000&text_color=000000&&icon_color=000000" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andfz&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff&layout=compact" width="41%">
 </p>
 
